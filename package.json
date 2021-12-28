@@ -1,0 +1,22 @@
+{
+  "name": "nestjs-config-lodash.set-vuln",
+  "version": "1.0.0",
+  "description": "Repository to demonstrate that the @nestjs/config has a vulnerable dependency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunek/nestjs-config-lodash.set-vuln.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaunek/nestjs-config-lodash.set-vuln/issues"
+  },
+  "homepage": "https://github.com/shaunek/nestjs-config-lodash.set-vuln#readme",
+  "dependencies": {
+    "@nestjs/config": "^1.1.5"
+  }
+}
